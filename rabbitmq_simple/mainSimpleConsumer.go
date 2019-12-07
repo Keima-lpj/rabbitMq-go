@@ -1,4 +1,4 @@
-package main
+package rabbitmq_simple
 
 import "immoc-rabbitmq/rabbitmq"
 
