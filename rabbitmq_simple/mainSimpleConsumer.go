@@ -1,6 +1,6 @@
-package rabbitmq_simple
+package main
 
-import "immoc-rabbitmq/rabbitmq"
+import "rabbitMq-go/rabbitmq"
 
 func main() {
 	rabbitMq := rabbitmq.NewRabbitMQSimple("immocSimple")

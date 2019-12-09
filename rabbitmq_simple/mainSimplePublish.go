@@ -1,8 +1,8 @@
-package rabbitmq_simple
+package main
 
 import (
 	"fmt"
-	"immoc-rabbitmq/rabbitmq"
+	"rabbitMq-go/rabbitmq"
 )
 
 func main() {

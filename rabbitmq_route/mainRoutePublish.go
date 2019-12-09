@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"immoc-rabbitmq/rabbitmq"
+	"rabbitMq-go/rabbitmq"
 	"strconv"
 )
 
